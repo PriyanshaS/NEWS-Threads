@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-*[APK](build/app/outputs/flutter-apk/newsthreads.apk)
+[APK](build/app/outputs/flutter-apk/newsthreads.apk)
 
 A few resources to get you started if this is your first Flutter project:
 
