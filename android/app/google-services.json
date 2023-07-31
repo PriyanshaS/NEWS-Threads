@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "133563008890",
+    "project_id": "news-app-32cdf",
+    "storage_bucket": "news-app-32cdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133563008890:android:2ddd25899c7a3e2473f8c3",
+        "android_client_info": {
+          "package_name": "com.example.innotecj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133563008890-nbsqkauid0gui8hhrccbqnk4kkiohv81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJpU0UtCbvwPW50Nos2UeczbfIYh6mCtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133563008890-nbsqkauid0gui8hhrccbqnk4kkiohv81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
