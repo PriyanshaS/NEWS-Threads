@@ -1,4 +1,4 @@
-# innotecj
+# NEWS Thread
 
 A new Flutter project.
 
